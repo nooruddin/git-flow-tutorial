@@ -1,1 +1,1 @@
-const Header = () => <h1>welcome to brainstation</h1>;
+const Header = () => <h2>welcome to brainstation</h2>;
